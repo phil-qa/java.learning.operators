@@ -1,0 +1,8 @@
+Operators in JAva are special symbols that perform specific operations on one, two, or three operands, then return a result
+by way of example
+
+An operand is a term for any object that is manipulated by an operator
+
+
+Expressions: An expression is formed by combining variables, literals, methods return values and operators
+so an expression of 50*2 would return a value which is the result of the expression
