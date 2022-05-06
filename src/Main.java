@@ -48,5 +48,9 @@ public class Main {
         // result = result - 2
         result -= 2;  // 10 - 2 = 8
         System.out.println("10 - 2 = " + result);
+
+        //example of boolean
+       String remainder =  3 % 2 != 0 ? "Had a remainder" : "Did not have a remainder";
+       System.out.println(remainder);
     }
 }
